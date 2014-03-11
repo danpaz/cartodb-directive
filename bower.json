@@ -1,0 +1,20 @@
+{
+  "name": "cartodb-directive",
+  "version": "0.1.0",
+  "homepage": "https://github.com/danpaz/cartodb-directive",
+  "authors": [
+      "Daniel Paz-Soldan <daniel.pazsoldan@gmail.com>"
+  ],
+  "description": "A simple angular directive that loads a fullscreen CartoDB map visualization http://www.cartodb.com.",
+  "main": "src/directives.js",
+  "keywords": [
+      "angular",
+      "cartodb",
+      "directive"
+  ],
+  "license": "MIT",
+  "dependencies": {
+      "angular": ">=1.2.13",
+      "cartodb.js": ">=3.0.1"
+  }
+}
